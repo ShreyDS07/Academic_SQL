@@ -184,9 +184,6 @@ GROUP BY p.payment_method
 ORDER BY total_unique_orders DESC
 LIMIT 5;
 
-
-
-
 ----- Question 5
 
 SELECT s.sku_name, 

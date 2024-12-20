@@ -25,10 +25,10 @@ The project utilized a relational database with the following key tables:
 4. **Payment Details**: Tracks payment methods associated with each transaction.
 
 ## How to Run
-1. Download the SQL file `assignment_completed_syntax.sql`.
-2. Load it into a database management system like MySQL Workbench.
-3. Execute the table creation scripts to set up the database schema.
-4. Run the queries to replicate the analysis and verify the results.
+1. Download the SQL file `SQL_Data_analysis_project`.
+3. Load it into a database management system like MySQL Workbench.
+4. Execute the table creation scripts to set up the database schema.
+5. Run the queries to replicate the analysis and verify the results.
 
 ## Results
 - June 2021 had the highest transactional value.
